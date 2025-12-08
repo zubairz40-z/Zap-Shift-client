@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Rahman",
+    "rating": 5,
+    "review": "Fast and reliable delivery! My parcel arrived within 24 hours. Highly recommended!",
+    "location": "Dhaka, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/women/68.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Imran Hossain",
+    "rating": 4,
+    "review": "Delivery was smooth and the tracking feature helped a lot. Packaging could be better.",
+    "location": "Chittagong, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fatema Akter",
+    "rating": 5,
+    "review": "Amazing customer support! They picked up my parcel right on time and delivered it safely.",
+    "location": "Sylhet, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Shihab Ahmed",
+    "rating": 5,
+    "review": "Best delivery service I have used. Cash on delivery works perfectly for my business.",
+    "location": "Khulna, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nusrat Jahan",
+    "rating": 4,
+    "review": "Nationwide delivery helped my e-commerce store a lot. Very satisfied with the speed.",
+    "location": "Rajshahi, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tanjim Hasan",
+    "rating": 5,
+    "review": "Super fast service! My urgent parcel reached within 6 hours in Dhaka.",
+    "location": "Dhaka, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/men/56.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sadia Noor",
+    "rating": 5,
+    "review": "The rider was polite and handled my fragile package with extra care. Loved the service!",
+    "location": "Barishal, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/women/23.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rakibul Islam",
+    "rating": 4,
+    "review": "Affordable delivery charges and reliable timing. Recommended for small businesses.",
+    "location": "Gazipur, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/men/67.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tanvir Chowdhury",
+    "rating": 5,
+    "review": "Tracking system is very accurate. I could follow every step of the delivery.",
+    "location": "Dhaka, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/men/77.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mehjabin Khan",
+    "rating": 5,
+    "review": "My parcels reached safely even during heavy rain. Very professional service.",
+    "location": "Sylhet, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/women/31.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Shafayat Hossain",
+    "rating": 4,
+    "review": "Good experience overall. Would love to see faster return parcel pickup.",
+    "location": "Cumilla, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/men/22.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mahira Tasnim",
+    "rating": 5,
+    "review": "Great service for boutique businesses. All my customers received products on time.",
+    "location": "Dhaka, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Naimur Rahman",
+    "rating": 5,
+    "review": "Easy online booking system and fast pickup. Highly satisfied!",
+    "location": "Narayanganj, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/men/11.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Jannat Mitu",
+    "rating": 4,
+    "review": "My package arrived one hour earlier than expected. Very impressive service!",
+    "location": "Bogura, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/women/40.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Zayed Karim",
+    "rating": 5,
+    "review": "Professional riders and smooth communication. Perfect logistics solution.",
+    "location": "Mymensingh, Bangladesh",
+    "img": "https://randomuser.me/api/portraits/men/60.jpg"
+  }
+]
